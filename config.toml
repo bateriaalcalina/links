@@ -1,0 +1,23 @@
+theme = "lynx"
+title = "Bateria Alcalina"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Bateria Alcalina"
+  headline = "19 anos sem menisquência 🥁💚🖤💛❤"
+  image = "logo-alcalina.svg"
+  links = [
+    { facebook = "https://www.facebook.com/bateriaalcalinacps" },
+    { instagram = "https://www.instagram.com/bateriaalcalina/" },
+    { youtube = "https://www.instagram.com/bateriaalcalina/" },
+    { soundcloud = "https://soundcloud.com/bateriaalcalina" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
