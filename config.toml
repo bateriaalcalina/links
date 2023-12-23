@@ -1,6 +1,7 @@
 theme = "lynx"
 title = "Bateria Alcalina"
 
+
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
@@ -14,6 +15,9 @@ disableKinds = ["taxonomy", "term"]
     { youtube = "https://www.youtube.com/@bateriaalcalina1056" },
     { soundcloud = "https://soundcloud.com/bateriaalcalina" },
   ]
+
+[params]
+attribution = false
 
 [markup.highlight]
   noClasses = false
