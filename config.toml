@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "Bateria Alcalina"
-  headline = "19 anos sem menisquência 🥁💚🖤💛❤"
+  headline = "Desde 2003 sem menisquência 🥁💚🖤💛❤"
   image = "alcalina.png"
   links = [
     { facebook = "https://www.facebook.com/bateriaalcalinacps" },
