@@ -5,7 +5,7 @@ title = "Bateria Alcalina"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-[author]
+[params.author]
   name = "Bateria Alcalina"
   headline = "19 anos sem menisquência 🥁💚🖤💛❤"
   image = "alcalina.png"
