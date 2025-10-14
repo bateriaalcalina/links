@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
     { instagram = "https://www.instagram.com/bateriaalcalina/" },
     { youtube = "https://www.youtube.com/@bateriaalcalina1056" },
     { soundcloud = "https://soundcloud.com/bateriaalcalina" },
-    { camiseta = { href = "https://forms.gle/PhygZMdW1JabnkUj6", text = "Camiseta União Altaneira 2025", icon = "link" } },
+    { feijoada = { href = "https://abre.ai/feijoada2025", text = "Feijoada Altaneira 2025", icon = "link" } },
   ]
 
 [params]
